@@ -4,7 +4,7 @@ public class HelloWorld
     // Prints "Hello, World" to the terminal window.
     public static void main(String args[])
     {
-        System.out.println("Java for Jenkins, Slack, Pipeline and Ngrok");
+        System.out.println("Java for Jenkins, Slack, Pipeline and Ngrok")
         
     }
 }
